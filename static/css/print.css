@@ -1,0 +1,27 @@
+@page {
+    size: A4 portrait;
+    /* 设置纸张及其方向 portrait：纵向；  landscape: 横向 */
+    margin: 1.65cm 1.52cm;
+}
+
+.header,
+.footer,
+.current-path,
+.right-nav,
+#dyjc,
+#check,
+.checkClose,
+.mobile-header {
+    display: none;
+}
+
+.main {
+    width: 1000px;
+    margin-left: 0.3cm;
+}
+
+
+
+
+
+

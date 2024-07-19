@@ -1,0 +1,41 @@
+html, body {
+    font-size: 16px;
+}
+
+.mobile-header,.mobile-footer{
+    display: none !important;
+}
+
+.header,
+.current-path,
+.footer,
+/* #check,
+.checkClose, */
+.right-nav,
+#dyjc{
+    display: block;
+}
+
+.video-frame {
+    width: 615px;
+    height: 460px;
+    border: none;
+}
+
+.cer{
+    text-align: center;
+}
+
+#content P{
+    text-indent: 2em;
+}
+
+@media screen and (min-width:0px) and (max-width: 767px) {
+    #content P{
+        text-indent: 2em;
+    }
+}
+
+
+
+
